@@ -30,8 +30,8 @@
                 var url = new Array();
                 url[0] = 'https://www.surveycake.com/s/WK62x'; //version A
                 url[1] = 'https://www.surveycake.com/s/xa1xP'; //version E
-                url[2] = 'https://www.surveycake.com/s/K1YOl'; //version C
-                url[3] = 'https://www.surveycake.com/s/WKXlB'; //version D
+                url[2] = 'https://www.surveycake.com/s/WKXlB'; //version D
+                url[3] = 'https://www.surveycake.com/s/K1YOl'; //version C
                 url[4] = 'https://www.surveycake.com/s/ra2v8 '; //version B
                 url[5] = 'https://www.surveycake.com/s/8lyQK'; //version F
                 location.href = url[Math.floor(Math.random()*(url.length))];
