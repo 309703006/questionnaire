@@ -32,8 +32,8 @@
                 url[1] = 'https://www.surveycake.com/s/xa1xP'; //version E
                 url[2] = 'https://www.surveycake.com/s/WKXlB'; //version D
                 url[3] = 'https://www.surveycake.com/s/K1YOl'; //version C
-                url[4] = 'https://www.surveycake.com/s/ra2v8 '; //version B
-                url[5] = 'https://www.surveycake.com/s/8lyQK'; //version F
+                url[4] = 'https://www.surveycake.com/s/8lyQK'; //version F
+                url[5] = 'https://www.surveycake.com/s/ra2v8 '; //version B
                 location.href = url[Math.floor(Math.random()*(url.length))];
             }
         </script>
